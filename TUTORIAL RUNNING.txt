@@ -1,0 +1,6 @@
+TUTORIAL RUNNING PROGRAM
+1. Ikuti tutorial create bot melalui BothFather di Telegram
+2. Isi value API KEY dari project openAI pada bagian #Initialize OpenAI client
+3. Ganti model yang sudah di fine-tune pada bagian #Get response from OpenAI
+4. Isi value API KEY dari BotFather Telegram pada func main()
+5. Run cell code secara berurutan 

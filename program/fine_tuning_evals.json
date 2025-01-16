@@ -1,0 +1,212 @@
+[
+    {
+        "user_query": "Looking for a Toyota car under 150 million with automatic transmission",
+        "system_response": "🚗 Passo Model 2013 (2013)\n📝 Car Detail:\n• Brands: Toyota\n• KMs Driven: 90000 km\n• Fuel: Petrol\n• Transmission: Automatic\n🌟 Car Features:\n• ABS, Air Bags, Air Conditioning, AM/FM Radio, CD Player, Front Speakers, Immobilizer Key, Keyless Entry, Power Locks, Power Mirrors, Power Steering, Power Windows, Rear Camera, USB and Auxillary Cable\n💰 Price (IDR): IDR 144,151,500.",
+        "reference_responses": "Toyota Passo Model 2013 with automatic transmission price below 150 million rupiah. A 2013 car with a mileage of 90,000 km using gasoline. Equipped with ABS and air bag safety features, AC comfort, audio, rear camera, and keyless entry. Car price IDR 144,151,500.",
+        "key_points": ["Car Name", "Make", "KMs Driven", "Fuel", "Transmission", "Car Features", "Price (IDR)"]
+    },
+    {
+        "user_query": "Find me a car with sunroof and leather seats under 200 million",
+        "system_response": "🚗 Mira Xs3 2020\n📝 Car Detail:\n• Brands: Daihatsu\n• KMs Driven: 53000 km\n• Fuel: Petrol\n• Transmission: Automatic\n🌟 Car Features:\n• ABS, Air Bags, Air Conditioning, AM\n• FM Radio, Keyless Entry, Power Locks, Power Mirrors, Power Steering, Power Windows, USB and Auxillary Cable\n💰 Price (IDR): IDR 200,116,200",
+        "reference_responses": "Daihatsu Mira Xs3 2020 model with automatic transmission is priced below 200 million rupiah. The 2020 car with a mileage of 53,000 km uses gasoline fuel. Equipped with ABS, Air Bags, Air Conditioning, AM FM Radio, Keyless Entry, Power Locks, Power Mirrors, Power Steering, Power Windows, USB and Auxillary Cable. Car price IDR 200,116,200.",
+        "key_points": ["Car Name", "Make", "KMs Driven", "Fuel", "Transmission", "Car Features", "Price (IDR)"]
+    },
+    {
+        "user_query": "Car with complete safety features between 150-300 million",
+        "system_response": "🚗 Honda City\n📝 Car Detail:\n• Brands: Honda\n• KMs Driven: 107000 km\n• Fuel: Petrol\n• Transmission: Automatic\n🌟 Car Features:\n• ABS, AM\n• FM Radio, CD Player, Front Speakers, Immobilizer Key, Power Steering, Power Windows, USB and Auxillary Cable\n💰 Price (IDR): IDR 214,814,000",
+        "reference_responses": "Honda City 2018 with automatic transmission is priced between 150-300 million rupiah. Car year 2018 with a mileage of 107,000 km using gasoline. Equipped with ABS, AM FM Radio, CD Player, Front Speakers, Immobilizer Key, Power Steering, Power Windows, USB and Auxillary Cable. Car price IDR 214,814,000.",
+        "key_points": ["Car Name", "Make", "KMs Driven", "Fuel", "Transmission", "Car Features", "Price (IDR)"]
+    },
+    {
+        "user_query": "Car with good entertainment system around 180 million",
+        "system_response": "🚗 Honda city (2018)\n📝 Car Detail:\n• Brands: Honda\n• KMs Driven: 20000 km\n• Fuel: Petrol\n• Transmission: Automatic\n🌟 Car Features:\n• ABS, Air Bags, AM\n• FM Radio, Cool Box, Immobilizer Key, Power Locks, Power Mirrors, Power Steering, Power Windows\n💰 Price (IDR): IDR 214,531,350",
+        "reference_responses": "Honda City 2018 with automatic transmission costs around 180 million rupiah. Car year 2018 with a mileage of 20,000 km using gasoline. Equipped with ABS, Air Bags, AM FM Radio, Cool Box, Immobilizer Key, Power Locks, Power Mirrors, Power Steering, Power Windows. Car price IDR 214,531,350.",
+        "key_points": ["Car Name", "Make", "KMs Driven", "Fuel", "Transmission", "Car Features", "Price (IDR)"]
+    },
+    {
+        "user_query": "Find me a Daihatsu automatic with complete features",
+        "system_response": "🚗 Mira XSA3 (2018)\n📝 Car Detail:\n• Brands: Daihatsu\n• KMs Driven: 79000 km\n• Fuel: Petrol\n• Transmission: Automatic\n🌟 Car Features:\n• ABS, Air Bags, Air Conditioning, Alloy Rims, AM\n• FM Radio, Cassette Player, Cool Box, Cruise Control, Climate Control, DVD Player, Front Speakers, Heated Seats, Immobilizer Key, Power Locks\n💰 Price (IDR): IDR 178,069,500",
+        "reference_responses": "A Daihatsu Mira XSA3 with automatic transmission costs around 170 million rupiah. Car year 2018 with a mileage of 79,000 km using gasoline. Equipped with ABS, Air Bags, Air Conditioning, Alloy Rims, AM\n- FM Radio, Cassette Player, Cool Box, Cruise Control, Climate Control, DVD Player, Front Speakers, Heated Seats, Immobilizer Key, Power Locks. Car price IDR 178,069,500.",
+        "key_points": ["Car Name", "Make", "KMs Driven", "Fuel", "Transmission", "Car Features", "Price (IDR)"]
+    },
+    {
+        "user_query": "Cars from 2018-2020 under 250 million",
+        "system_response": "🚗 Mira X 2018 (2018)\n📝 Car Detail:\n• Brands: Daihatsu\n• KMs Driven: 5800 km\n• Fuel: Petrol\n• Transmission: Automatic\n🌟 Car Features:\n• ABS, Air Bags, Air Conditioning, Keyless Entry, Power Locks, Power Mirrors, Power Steering, Power Windows\n💰 Price (IDR): IDR 197,855,000",
+        "reference_responses": "A Daihatsu Mira X with automatic transmission costs around 200 million rupiah. 2018 car with a mileage of 5,800 km using gasoline. Equipped with ABS, Air Bags, Air Conditioning, Keyless Entry, Power Locks, Power Mirrors, Power Steering, Power Windows. Car price Rp 197,855,000.",
+        "key_points": ["Car Name", "Make", "KMs Driven", "Fuel", "Transmission", "Car Features", "Price (IDR)"]
+    },
+    {
+        "user_query": "Toyota with leather seats and automatic transmission",
+        "system_response": "🚗 Altis 2018 (2018)\n📝 Car Detail:\n• Brands: Toyota\n• KMs Driven: 55000 km\n• Fuel: Petrol\n• Transmission: Automatic\n🌟 Car Features:\n• ABS, Air Bags, Air Conditioning, Alloy Rims, AM\n• FM Radio, CD Player\n💰 Price (IDR): IDR 245,905,500",
+        "reference_responses": "A Toyota Altis with automatic transmission costs around 250 million rupiah. 2018 car with 55,000 km mileage using gasoline. Equipped with ABS, Air Bags, Air Conditioning, Alloy Rims, AMFM Radio, CD Player. Car price IDR 245,905,500.",
+        "key_points": ["Car Name", "Make", "KMs Driven", "Fuel", "Transmission", "Car Features", "Price (IDR)"]
+    },
+    {
+        "user_query": "Low mileage honda car with complete safety features",
+        "system_response": "🚗 Honda city (2018)\n📝 Car Detail:\n• Brands: Honda\n• KMs Driven: 20000 km\n• Fuel: Petrol\n• Transmission: Automatic\n🌟 Car Features:\n• ABS, Air Bags, AM\n• FM Radio, Cool Box, Immobilizer Key, Power Locks, Power Mirrors, Power Steering, Power Windows\n💰 Price (IDR): IDR 214,531,350",
+        "reference_responses": "A Honda City with automatic transmission costs around 200 million rupiah. 2018 car with 20,000 km mileage using gasoline. Equipped with ABS, Air Bags, AM\n- FM Radio, Cool Box, Immobilizer Key, Power Locks, Power Mirrors, Power Steering, Power Windows. Car price IDR 214,531,350.",
+        "key_points": ["Car Name", "Make", "KMs Driven", "Fuel", "Transmission", "Car Features", "Price (IDR)"]
+    },
+    {
+        "user_query": "Low mileage suzuki car with complete safety features",
+        "system_response": "🚗 Suzuki every (2018)\n📝 Car Detail:\n• Brands: Suzuki\n• KMs Driven: 100000 km\n• Fuel: Petrol\n• Transmission: Automatic\n🌟 Car Features:\n• ABS, Air Bags, Air Conditioning, AM\n• FM Radio, CD Player, Cassette Player, DVD Player, Front Speakers, Front Camera, Immobilizer Key, Navigation System, Power Locks, Power Mirrors, Power Steering, Power Windows, Rear Camera\n💰 Price (IDR): IDR 155,457,500",
+        "reference_responses": "Suzuki every year 2018 with automatic transmission costs around 150 million rupiah. The 2018 car with a mileage of 100,000 km uses gasoline. Equipped with ABS, Air Bags, Air Conditioning, AM FM Radio, CD Player, Cassette Player, DVD Player, Front Speakers, Front Camera, Immobilizer Key, Navigation System, Power Locks, Power Mirrors, Power Steering, Power Windows, Rear Camera. Car price Rp 155,457,500.",
+        "key_points": ["Car Name", "Make", "KMs Driven", "Fuel", "Transmission", "Car Features", "Price (IDR)"]
+    },
+    {
+        "user_query": "Daihatsu 2019 model with complete features under 300 million",
+        "system_response": "🚗 Daihatsu Mira (2019)\n📝 Car Detail:\n• Brands: Daihatsu\n• KMs Driven: 37500 km\n• Fuel: Petrol\n• Transmission: Automatic\n🌟 Car Features:\n• ABS, Air Bags, Air Conditioning, Alloy Rims, AM FM Radio, CD Player, Climate Control, DVD Player, Front Speakers, Heated Seats, Immobilizer Key, Keyless Entry, Power Locks, Power Mirrors, Power Steering, Power Windows, Rear speakers, Rear Camera, USB and Auxillary Cable\n💰 Price (IDR): IDR 206,334,500",
+        "reference_responses": "A Daihatsu Mira with automatic transmission costs around 200 million rupiah. The 2019 car with a mileage of 37,500 km uses gasoline. Equipped with ABS, Air Bags, Air Conditioning, Alloy Rims, AM FM Radio, CD Player, Climate Control, DVD Player, Front Speakers, Heated Seats, Immobilizer Key, Keyless Entry, Power Locks, Power Mirrors, Power Steering, Power Windows, Rear speakers, Rear Camera, USB and Auxillary Cable. Car price IDR 206,334,500.",
+        "key_points": ["Car Name", "Make", "KMs Driven", "Fuel", "Transmission", "Car Features", "Price (IDR)"]
+    },
+    {
+        "user_query": "Toyota 2023 model with complete features under 300 million",
+        "system_response": "🚗 Toyota Yaris (2023)\n📝 Car Detail:\n• Brands: Toyota\n• KMs Driven: 16000 km\n• Fuel: Petrol\n• Transmission: Automatic\n🌟 Car Features:\n• Air Bags\n💰 Price (IDR): IDR 260,038,000",
+        "reference_responses": "A Toyota Yaris with automatic transmission costs around 260 million rupiah. The 2023 car with a mileage of 37,500 km uses gasoline. Equipped with Air Bags. Car price IDR 260,038,000.",
+        "key_points": ["Car Name", "Make", "KMs Driven", "Fuel", "Transmission", "Car Features", "Price (IDR)"]
+    },
+    {
+        "user_query": "Cars from 2018-2020 under 250 million",
+        "system_response": "🚗 Mira X 2018 (2018)\n📝 Car Detail:\n• Brands: Daihatsu\n• KMs Driven: 70000 km\n• Fuel: Petrol\n• Transmission: Automatic\n🌟 Car Features:\n• ABS, Air Bags, Air Conditioning\n💰 Price (IDR): IDR 192,202,000",
+        "reference_responses": "A Daihatsu Mira X with automatic transmission costs around 190 million rupiah. 2018 car with a mileage of 70,000 km using gasoline. Equipped with ABS, Air Bags, Air Conditioning. Car price Rp 192,202,000.",
+        "key_points": ["Car Name", "Make", "KMs Driven", "Fuel", "Transmission", "Car Features", "Price (IDR)"]
+    },
+    {
+        "user_query": "Looking for a Toyota car under 150 million with automatic transmission",
+        "system_response": "🚗 Toyota Passo 2014 (2014)\n📝 Detail Mobil:\n• Merek: Toyota\n• KMs Driven: 82000 km\n• Bahan Bakar: Petrol\n• Transmisi: Automatic\n🌟 Fitur:\n• ABS, Air Bags, Air Conditioning, CD Player, Front Speakers, Keyless Entry, Navigation System, Power Locks, Power Mirrors, Power Steering, Power Windows, Rear speakers, Rear Camera\n💰 Harga: IDR 157,153,400",
+        "reference_responses": "A Toyota Passo with automatic transmission costs around 157 million rupiah. The 2014 car with a mileage of 82,000 km uses gasoline. Equipped with ABS, Air Bags, Air Conditioning, CD Player, Front Speakers, Keyless Entry, Navigation System, Power Locks, Power Mirrors, Power Steering, Power Windows, Rear speakers, Rear Camera. Car price IDR IDR 157,153,400.",
+        "key_points": ["Car Name", "Make", "KMs Driven", "Fuel", "Transmission", "Car Features", "Price (IDR)"]
+    },
+    {
+        "user_query": "Find me a car with sunroof and leather seats under 200 million",
+        "system_response": "🚗 Mira Xs3 2020\n📝 Car Detail:\n• Brands: Daihatsu\n• KMs Driven: 53000 km\n• Fuel: Petrol\n• Transmission: Automatic\n🌟 Car Features:\n• ABS, Air Bags, Air Conditioning, AM\n• FM Radio, Keyless Entry, Power Locks, Power Mirrors, Power Steering, Power Windows, USB and Auxillary Cable\n💰 Price (IDR): IDR 200,116,200",
+        "reference_responses": "A Mira Xs3 with automatic transmission costs around 200 million rupiah. The 2020 car with a mileage of 53,000 km uses gasoline. Equipped with ABS, Air Bags, Air Conditioning, AM\n- FM Radio, Keyless Entry, Power Locks, Power Mirrors, Power Steering, Power Windows, USB and Auxillary Cable. Car price IDR 200,116,200",
+        "key_points": ["Car Name", "Make", "KMs Driven", "Fuel", "Transmission", "Car Features", "Price (IDR)"]
+    },
+    {
+        "user_query": "Low mileage suzuki car with complete safety features",
+        "system_response": "🚗 Suzuki Every 2018 (2018)\n 📝 Car Detail: \n• Brands: Suzuki \n• KMs Driven: 92000 km \n• Fuel: Petrol \n• Transmission: Automatic\n🌟 Car Features: \n• ABS, Air Bags, Air Conditioning, AM, FM Radio, Immobilizer Key, Keyless Entry, Power Locks, Power Steering, Power Windows\n💰 Price (IDR): IDR 146,130,050",
+        "reference_responses": "Suzuki Every 2018 with 92,000 km, petrol fuel, and automatic transmission. Features include ABS, Air Bags, Air Conditioning, AM FM Radio, Immobilizer Key, Keyless Entry, Power Locks, Power Steering, Power Windows. Price: IDR 146,130,050.",
+        "key_points": ["Car Name", "Make", "KMs Driven", "Fuel", "Transmission", "Car Features", "Price (IDR)"]
+    },
+    {
+        "user_query": "Daihatsu 2019 model with complete features under 200 million",
+        "system_response": "🚗 Daihatsu Mira (2019)\n 📝 Car Detail: \n• Brands: Daihatsu \n• KMs Driven: 51000 km \n• Fuel: Petrol \n• Transmission: Automatic\n🌟 Car Features: \n• ABS, Air Bags, Air Conditioning, AM, FM Radio, Power Locks, Power Mirrors, Power Steering, Power Windows\n💰 Price (IDR): IDR 179,482,750",
+        "reference_responses": "Daihatsu Mira 2019 with 51,000 km, petrol fuel, and automatic transmission. Features include ABS, Air Bags, Air Conditioning, AM FM Radio, Power Locks, Power Mirrors, Power Steering, Power Windows. Price: IDR 179,482,750.",
+        "key_points": ["Car Name", "Make", "KMs Driven", "Fuel", "Transmission", "Car Features", "Price (IDR)"]
+    },
+    {
+        "user_query": "Low mileage suzuki car with complete safety features",
+        "system_response": "🚗 Suzuki Every (2018)\n 📝 Car Detail: \n• Brands: Suzuki \n• KMs Driven: 79000 km \n• Fuel: Petrol \n• Transmission: Automatic\n🌟 Car Features: \n• ABS, Air Bags, Air Conditioning, AM, FM Radio\n💰 Price (IDR): IDR 139,629,100",
+        "reference_responses": "Suzuki Every 2018 with 79,000 km, petrol fuel, and automatic transmission. Features include ABS, Air Bags, Air Conditioning, AM FM Radio. Price: IDR 139,629,100.",
+        "key_points": ["Car Name", "Make", "KMs Driven", "Fuel", "Transmission", "Car Features", "Price (IDR)"]
+    },
+    {
+        "user_query": "Daihatsu 2021 model with complete features under 200 million",
+        "system_response": "🚗 Mira XSAIII (2021)\n 📝 Car Detail: \n• Brands: Daihatsu \n• KMs Driven: 67000 km \n• Fuel: Petrol \n• Transmission: Automatic\n🌟 Car Features: \n• ABS, Air Bags, Air Conditioning, Alloy Rims, AM, FM Radio, CD Player, Cassette Player, Climate Control, DVD Player, Front Speakers, Heated Seats, Immobilizer Key, Keyless Entry, Navigation System, Power Locks, Power Mirrors, Power Steering, Power Windows, Rear AC Vents, Rear Speakers, Steering Switches, USB and Auxillary Cable\n💰 Price (IDR): IDR 195,028,500",
+        "reference_responses": "Daihatsu Mira XSAIII 2021 with 67,000 km, petrol fuel, and automatic transmission. Features include ABS, Air Bags, Air Conditioning, Alloy Rims, AM FM Radio, CD Player, Cassette Player, Climate Control, DVD Player, Front Speakers, Heated Seats, Immobilizer Key, Keyless Entry, Navigation System, Power Locks, Power Mirrors, Power Steering, Power Windows, Rear AC Vents, Rear Speakers, Steering Switches, USB and Auxillary Cable. Price: IDR 195,028,500.",
+        "key_points": ["Car Name", "Make", "KMs Driven", "Fuel", "Transmission", "Car Features", "Price (IDR)"]
+    },
+    {
+        "user_query": "Daihatsu 2019 model with complete features under 300 million",
+        "system_response": "🚗 Daihatsu Mira (2019)\n 📝 Car Detail: \n• Brands: Daihatsu \n• KMs Driven: 37500 km \n• Fuel: Petrol \n• Transmission: Automatic\n🌟 Car Features: \n• ABS, Air Bags, Air Conditioning, Alloy Rims, AM FM Radio, CD Player, Climate Control, DVD Player, Front Speakers, Heated Seats, Immobilizer Key, Keyless Entry, Power Locks, Power Mirrors, Power Steering, Power Windows, Rear Speakers, Rear Camera, USB and Auxillary Cable\n💰 Price (IDR): IDR 206,334,500",
+        "reference_responses": "Daihatsu Mira 2019 with 37,500 km, petrol fuel, and automatic transmission. Features include ABS, Air Bags, Air Conditioning, Alloy Rims, AM FM Radio, CD Player, Climate Control, DVD Player, Front Speakers, Heated Seats, Immobilizer Key, Keyless Entry, Power Locks, Power Mirrors, Power Steering, Power Windows, Rear Speakers, Rear Camera, USB and Auxillary Cable. Price: IDR 206,334,500.",
+        "key_points": ["Car Name", "Make", "KMs Driven", "Fuel", "Transmission", "Car Features", "Price (IDR)"]
+    },
+    {
+        "user_query": "Low mileage Toyota car with complete safety features",
+        "system_response": "🚗 Corolla Gli 2019 (2019)\n 📝 Car Detail: \n• Brands: Toyota \n• KMs Driven: 12300 km \n• Fuel: Petrol \n• Transmission: Automatic\n🌟 Car Features: \n• Air Conditioning\n💰 Price (IDR): IDR 214,814,000",
+        "reference_responses": "Toyota Corolla Gli 2019 with 12,300 km, petrol fuel, and automatic transmission. Features include Air Conditioning. Price: IDR 214,814,000.",
+        "key_points": ["Car Name", "Make", "KMs Driven", "Fuel", "Transmission", "Car Features", "Price (IDR)"]
+    },
+    {
+        "user_query": "Looking for a car with manual transmission, price between 150 to 300 million",
+        "system_response": "🚗 Honda City (2022)\n 📝 Car Detail: \n• Brands: Honda \n• KMs Driven: 16000 km \n• Fuel: Petrol \n• Transmission: Manual\n🌟 Car Features: \n• ABS, Air Conditioning, AM, FM Radio, Front Speakers, Power Locks, Power Mirrors, Power Steering, Power Windows, Rear Speakers, Rear Camera, Steering Switches, USB and Auxillary Cable\n💰 Price (IDR): IDR 226,120,000",
+        "reference_responses": "Honda City 2022 with 16,000 km, petrol fuel, and manual transmission. Features include ABS, Air Conditioning, AM FM Radio, Front Speakers, Power Locks, Power Mirrors, Power Steering, Power Windows, Rear Speakers, Rear Camera, Steering Switches, USB and Auxillary Cable. Price: IDR 226,120,000.",
+        "key_points": ["Car Name", "Make", "KMs Driven", "Fuel", "Transmission", "Car Features", "Price (IDR)"]
+    },
+    {
+        "user_query": "Find a car in 2021 automatic transmission with the most complete features for around 250 million",
+        "system_response": "🚗 Toyota Passo (2021)\n 📝 Car Detail: \n• Brands: Toyota \n• KMs Driven: 6900 km \n• Fuel: Petrol \n• Transmission: Automatic\n🌟 Car Features: \n• ABS, Air Bags, Air Conditioning, AM, FM Radio, CD Player, DVD Player, Front Speakers, Keyless Entry, Navigation System, Power Locks, Power Mirrors, Power Steering, Power Windows, Rear Camera, USB and Auxillary Cable\n💰 Price (IDR): IDR 245,905,500",
+        "reference_responses": "Toyota Passo 2021 with 6,900 km, petrol fuel, and automatic transmission. Features include ABS, Air Bags, Air Conditioning, AM FM Radio, CD Player, DVD Player, Front Speakers, Keyless Entry, Navigation System, Power Locks, Power Mirrors, Power Steering, Power Windows, Rear Camera, USB and Auxillary Cable. Price: IDR 245,905,500.",
+        "key_points": ["Car Name", "Make", "KMs Driven", "Fuel", "Transmission", "Car Features", "Price (IDR)"]
+    },
+    {
+        "user_query": "Suzuki car with low kilometers and complete features",
+        "system_response": "🚗 Suzuki WagonR (2022)\n 📝 Car Detail: \n• Brands: Suzuki \n• KMs Driven: 62000 km \n• Fuel: Petrol \n• Transmission: Automatic\n🌟 Car Features: \n• ABS, Air Conditioning, Alloy Rims, AM, FM Radio, Front Speakers, Power Steering, Power Windows, Rear Speakers, Rear Camera, Steering Switches, USB and Auxillary Cable\n💰 Price (IDR): IDR 169,590,000",
+        "reference_responses": "Suzuki WagonR 2022 with 62,000 km, petrol fuel, and automatic transmission. Features include ABS, Air Conditioning, Alloy Rims, AM FM Radio, Front Speakers, Power Steering, Power Windows, Rear Speakers, Rear Camera, Steering Switches, USB and Auxillary Cable. Price: IDR 169,590,000.",
+        "key_points": ["Car Name", "Make", "KMs Driven", "Fuel", "Transmission", "Car Features", "Price (IDR)"]
+    },
+    {
+        "user_query": "Daihatsu 2021 model with complete features under 200 million",
+        "system_response": "🚗 Daihatsu Move (2021)\n 📝 Car Detail: \n• Brands: Daihatsu \n• KMs Driven: 6500 km \n• Fuel: Petrol \n• Transmission: Automatic\n🌟 Car Features: \n• ABS, Air Bags, Air Conditioning, Alloy Rims, AM, FM Radio, CD Player, Cassette Player, Cool Box, Climate Control, DVD Player, Front Speakers, Front Camera, Immobilizer Key, Power Locks, Power Steering, Power Windows, Rear AC Vents, Rear Speakers, Rear Camera, Steering Switches, USB and Auxillary Cable\n💰 Price (IDR): IDR 197,798,470",
+        "reference_responses": "Daihatsu Move 2021 with 6,500 km, petrol fuel, and automatic transmission. Features include ABS, Air Bags, Air Conditioning, Alloy Rims, AM FM Radio, CD Player, Cassette Player, Cool Box, Climate Control, DVD Player, Front Speakers, Front Camera, Immobilizer Key, Power Locks, Power Steering, Power Windows, Rear AC Vents, Rear Speakers, Rear Camera, Steering Switches, USB and Auxillary Cable. Price: IDR 197,798,470.",
+        "key_points": ["Car Name", "Make", "KMs Driven", "Fuel", "Transmission", "Car Features", "Price (IDR)"]
+    },
+    {
+        "user_query": "Find a car in 2021 automatic transmission with the most complete features for around 250 million",
+        "system_response": "🚗 Yaris 2021 (2021)\n 📝 Car Detail: \n• Brands: Toyota \n• KMs Driven: 31000 km \n• Fuel: Petrol \n• Transmission: Automatic\n🌟 Car Features: \n• Air Bags, Air Conditioning, Alloy Rims, AM, FM Radio, Keyless Entry, Power Locks, Power Steering, Power Windows, Rear Camera\n💰 Price (IDR): IDR 245,622,850",
+        "reference_responses": "Toyota Yaris 2021 with 31,000 km, petrol fuel, and automatic transmission. Features include Air Bags, Air Conditioning, Alloy Rims, AM FM Radio, Keyless Entry, Power Locks, Power Steering, Power Windows, Rear Camera. Price: IDR 245,622,850.",
+        "key_points": ["Car Name", "Make", "KMs Driven", "Fuel", "Transmission", "Car Features", "Price (IDR)"]
+    },
+    {
+        "user_query": "Daihatsu 2019 model with complete features under 200 million",
+        "system_response": "🚗 Daihatsu Mira (2019)\n 📝 Car Detail: \n• Brands: Daihatsu \n• KMs Driven: 37500 km \n• Fuel: Petrol \n• Transmission: Automatic\n🌟 Car Features: \n• ABS, Air Bags, Air Conditioning, Alloy Rims, AM, FM Radio, CD Player, Climate Control, DVD Player, Front Speakers, Heated Seats, Immobilizer Key, Keyless Entry, Power Locks, Power Mirrors, Power Steering, Power Windows, Rear Speakers, Rear Camera, USB and Auxillary Cable\n💰 Price (IDR): IDR 206,334,500",
+        "reference_responses": "Daihatsu Mira 2019 with 37,500 km, petrol fuel, and automatic transmission. Features include ABS, Air Bags, Air Conditioning, Alloy Rims, AM FM Radio, CD Player, Climate Control, DVD Player, Front Speakers, Heated Seats, Immobilizer Key, Keyless Entry, Power Locks, Power Mirrors, Power Steering, Power Windows, Rear Speakers, Rear Camera, USB and Auxillary Cable. Price: IDR 206,334,500.",
+        "key_points": ["Car Name", "Make", "KMs Driven", "Fuel", "Transmission", "Car Features", "Price (IDR)"]
+    },
+    {
+        "user_query": "Looking for a car with manual transmission, price between 100 to 250 million",
+        "system_response": "🚗 Toyota Gli (2019)\n 📝 Car Detail: \n• Brands: Toyota \n• KMs Driven: 90000 km \n• Fuel: Petrol \n• Transmission: Manual\n🌟 Car Features: \n• ABS, Air Bags, Air Conditioning, Alloy Rims, AM, FM Radio, CD Player, Cassette Player, Cool Box, Cruise Control, Climate Control, DVD Player, Front Speakers, Front Camera, Heated Seats, Immobilizer Key, Power Locks, Power Steering, Power Windows\n💰 Price (IDR): IDR 243,079,000",
+        "reference_responses": "Toyota Gli 2019 with 90,000 km, petrol fuel, and manual transmission. Features include ABS, Air Bags, Air Conditioning, Alloy Rims, AM FM Radio, CD Player, Cassette Player, Cool Box, Cruise Control, Climate Control, DVD Player, Front Speakers, Front Camera, Heated Seats, Immobilizer Key, Power Locks, Power Steering, Power Windows. Price: IDR 243,079,000.",
+        "key_points": ["Car Name", "Make", "KMs Driven", "Fuel", "Transmission", "Car Features", "Price (IDR)"]
+    },
+    {
+        "user_query": "Find a car in 2021 automatic transmission with the most complete features for around 250 million",
+        "system_response": "🚗 Toyota Yaris (2021)\n 📝 Car Detail: \n• Brands: Toyota \n• KMs Driven: 24000 km \n• Fuel: Petrol \n• Transmission: Automatic\n🌟 Car Features: \n• Air Conditioning, Alloy Rims, AM, FM Radio, Power Locks, Power Steering, Power Windows\n💰 Price (IDR): IDR 234,599,500",
+        "reference_responses": "Toyota Yaris 2021 with 24,000 km, petrol fuel, and automatic transmission. Features include Air Conditioning, Alloy Rims, AM FM Radio, Power Locks, Power Steering, Power Windows. Price: IDR 234,599,500.",
+        "key_points": ["Car Name", "Make", "KMs Driven", "Fuel", "Transmission", "Car Features", "Price (IDR)"]
+    },
+    {
+        "user_query": "Daihatsu 2019 model with complete features under 200 million",
+        "system_response": "🚗 Daihatsu Mira (2019)\n 📝 Car Detail: \n• Brands: Daihatsu \n• KMs Driven: 37500 km \n• Fuel: Petrol \n• Transmission: Automatic\n🌟 Car Features: \n• ABS, Air Bags, Air Conditioning, Alloy Rims, AM, FM Radio, CD Player, Climate Control, DVD Player, Front Speakers, Heated Seats, Immobilizer Key, Keyless Entry, Power Locks, Power Mirrors, Power Steering, Power Windows, Rear Speakers, Rear Camera, USB and Auxillary Cable\n💰 Price (IDR): IDR 206,334,500",
+        "reference_responses": "Daihatsu Mira 2019 with 37,500 km, petrol fuel, and automatic transmission. Features include ABS, Air Bags, Air Conditioning, Alloy Rims, AM FM Radio, CD Player, Climate Control, DVD Player, Front Speakers, Heated Seats, Immobilizer Key, Keyless Entry, Power Locks, Power Mirrors, Power Steering, Power Windows, Rear Speakers, Rear Camera, USB and Auxillary Cable. Price: IDR 206,334,500.",
+        "key_points": ["Car Name", "Make", "KMs Driven", "Fuel", "Transmission", "Car Features", "Price (IDR)"]
+    },
+    {
+        "user_query": "Looking for a car with manual transmission, price between 100 to 250 million",
+        "system_response": "🚗 Toyota Corolla GLI (2019)\n 📝 Car Detail: \n• Brands: Toyota \n• KMs Driven: 41000 km \n• Fuel: Petrol \n• Transmission: Manual\n🌟 Car Features: \n• ABS, Air Bags, Air Conditioning, Alloy Rims, AM, FM Radio, CD Player, Cassette Player, Cool Box, Front Speakers, Power Locks, Power Steering, Power Windows, Rear Speakers, USB and Auxillary Cable\n💰 Price (IDR): IDR 237,426,000",
+        "reference_responses": "Toyota Corolla GLI 2019 with 41,000 km, petrol fuel, and manual transmission. Features include ABS, Air Bags, Air Conditioning, Alloy Rims, AM FM Radio, CD Player, Cassette Player, Cool Box, Front Speakers, Power Locks, Power Steering, Power Windows, Rear Speakers, USB and Auxillary Cable. Price: IDR 237,426,000.",
+        "key_points": ["Car Name", "Make", "KMs Driven", "Fuel", "Transmission", "Car Features", "Price (IDR)"]
+    },
+    {
+        "user_query": "Daihatsu 2021 model with complete features under 200 million",
+        "system_response": "🚗 Not Mentioned (2021)\n 📝 Car Detail: \n• Brands: Daihatsu \n• KMs Driven: 3700 km \n• Fuel: Petrol \n• Transmission: Automatic\n🌟 Car Features: \n• ABS, Air Bags, Air Conditioning, Alloy Rims, DVD Player, Keyless Entry, Power Locks, Power Steering, Power Windows, Rear Speakers, Rear Camera\n💰 Price (IDR): IDR 201,812,100",
+        "reference_responses": "Daihatsu 2021 with 3,700 km, petrol fuel, and automatic transmission. Features include ABS, Air Bags, Air Conditioning, Alloy Rims, DVD Player, Keyless Entry, Power Locks, Power Steering, Power Windows, Rear Speakers, Rear Camera. Price: IDR 201,812,100.",
+        "key_points": ["Car Name", "Make", "KMs Driven", "Fuel", "Transmission", "Car Features", "Price (IDR)"]
+    },
+    {
+        "user_query": "Daihatsu 2019 model with complete features under 200 million",
+        "system_response": "🚗 Daihatsu Mira ES (2019)\n 📝 Car Detail: \n• Brands: Daihatsu \n• KMs Driven: 57000 km \n• Fuel: Petrol \n• Transmission: Automatic\n🌟 Car Features: \n• ABS, Air Bags, Air Conditioning, AM, FM Radio, Front Speakers, Immobilizer Key, Keyless Entry, Navigation System, Power Locks, Power Mirrors, Power Steering, Power Windows, Rear Speakers, Rear Camera\n💰 Price (IDR): IDR 175,243,000",
+        "reference_responses": "Daihatsu Mira ES 2019 with 57,000 km, petrol fuel, and automatic transmission. Features include ABS, Air Bags, Air Conditioning, AM FM Radio, Front Speakers, Immobilizer Key, Keyless Entry, Navigation System, Power Locks, Power Mirrors, Power Steering, Power Windows, Rear Speakers, Rear Camera. Price: IDR 175,243,000.",
+        "key_points": ["Car Name", "Make", "KMs Driven", "Fuel", "Transmission", "Car Features", "Price (IDR)"]
+    },
+    {
+        "user_query": "Daihatsu 2021 model with complete features under 200 million",
+        "system_response": "🚗 Not Mentioned (2021)\n 📝 Car Detail: \n• Brands: Daihatsu \n• KMs Driven: 3700 km \n• Fuel: Petrol \n• Transmission: Automatic\n🌟 Car Features: \n• ABS, Air Bags, Air Conditioning, Alloy Rims, DVD Player, Keyless Entry, Power Locks, Power Steering, Power Windows, Rear Speakers, Rear Camera\n💰 Price (IDR): IDR 201,812,100",
+        "reference_responses": "Daihatsu 2021 with 3,700 km, petrol fuel, and automatic transmission. Features include ABS, Air Bags, Air Conditioning, Alloy Rims, DVD Player, Keyless Entry, Power Locks, Power Steering, Power Windows, Rear Speakers, Rear Camera. Price: IDR 201,812,100.",
+        "key_points": ["Car Name", "Make", "KMs Driven", "Fuel", "Transmission", "Car Features", "Price (IDR)"]
+    },
+    {
+        "user_query": "Suzuki 2022 model with complete features under 200 million",
+        "system_response": "🚗 Suzuki WagonR (2022)\n 📝 Car Detail: \n• Brands: Suzuki \n• KMs Driven: 62000 km \n• Fuel: Petrol \n• Transmission: Automatic\n🌟 Car Features: \n• ABS, Air Conditioning, Alloy Rims, AM, FM Radio, Front Speakers, Power Steering, Power Windows, Rear Speakers, Rear Camera, Steering Switches, USB and Auxillary Cable\n💰 Price (IDR): IDR 169,590,000",
+        "reference_responses": "Suzuki WagonR 2022 with 62,000 km, petrol fuel, and automatic transmission. Features include ABS, Air Conditioning, Alloy Rims, AM FM Radio, Front Speakers, Power Steering, Power Windows, Rear Speakers, Rear Camera, Steering Switches, USB and Auxillary Cable. Price: IDR 169,590,000.",
+        "key_points": ["Car Name", "Make", "KMs Driven", "Fuel", "Transmission", "Car Features", "Price (IDR)"]
+    },
+    {
+        "user_query": "Suzuki 2023 model with complete features under 200 million",
+        "system_response": "🚗 Suzuki Alto VXL (2023)\n 📝 Car Detail: \n• Brands: Suzuki \n• KMs Driven: 7000 km \n• Fuel: Petrol \n• Transmission: Automatic\n🌟 Car Features: \n• ABS, Air Bags, Air Conditioning, AM, FM Radio, Front Speakers, Immobilizer Key, Keyless Entry, Power Locks, Power Mirrors, Power Steering, Power Windows, Rear Speakers, Rear Camera\n💰 Price (IDR): IDR 166,763,500",
+        "reference_responses": "Suzuki Alto VXL 2023 with 7,000 km, petrol fuel, and automatic transmission. Features include ABS, Air Bags, Air Conditioning, AM FM Radio, Front Speakers, Immobilizer Key, Keyless Entry, Power Locks, Power Mirrors, Power Steering, Power Windows, Rear Speakers, Rear Camera. Price: IDR 166,763,500.",
+        "key_points": ["Car Name", "Make", "KMs Driven", "Fuel", "Transmission", "Car Features", "Price (IDR)"]
+    }
+]

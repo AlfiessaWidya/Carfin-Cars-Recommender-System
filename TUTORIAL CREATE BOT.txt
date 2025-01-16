@@ -1,0 +1,21 @@
+TUTORIAL CREATE BOT TELEGRAM
+
+1. Cari BotFather
+ - Buka aplikasi Telegram.
+ - Di kolom pencarian, ketik BotFather dan pilih bot dengan centang biru.
+2. Mulai BotFather
+ - Klik tombol Start atau kirim /start ke BotFather untuk memulai.
+3. Buat Bot Baru
+ - Kirim perintah /newbot.
+ - BotFather akan meminta nama untuk bot Anda. Masukkan nama bot (misalnya: MyBot).
+ - Selanjutnya, masukkan username untuk bot Anda yang harus diakhiri dengan bot (misalnya: MyBot123_bot).
+4. Salin Token API
+ - BotFather akan memberikan Token API setelah bot berhasil dibuat. Salin token ini karena diperlukan untuk mengintegrasikan bot ke aplikasi Anda.
+5. Konfigurasi Tambahan (Opsional)
+ - Anda bisa menyesuaikan bot dengan perintah:
+ - /setdescription → Untuk menambahkan deskripsi bot.
+ - /setabouttext → Untuk menambahkan teks "Tentang".
+ - /setuserpic → Untuk mengubah foto profil bot.
+6. Aktifkan Bot
+ - Cari bot Anda di Telegram menggunakan nama atau username yang Anda buat.
+ - Klik Start untuk mengaktifkan bot.
