@@ -24,4 +24,5 @@ This project was developed as part of my undergraduate research and portfolio to
 
 ---
 
-Feel free to try the demo or reach out if you're interested in collaborating on LLM-based solutions!
+📫 **Interested in working together or learning more?**  
+Feel free to reach out and [visit my LinkedIn profile](https://www.linkedin.com/in/alfiessa) for more info and updates.
