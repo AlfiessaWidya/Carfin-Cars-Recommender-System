@@ -1,6 +1,6 @@
 # **Car Recommender System Based on Conversational Recommender System Using Large Language Model**
 
-![Preview](./Preview.png)
+![Preview](Preview.png)
 
 **Carfin** is a car recommendation system built on top of a Large Language Model (LLM) and deployed via the Telegram platform.  
 This project leverages **GPT-4**, fine-tuned with a domain-specific conversational dataset and enhanced through **prompt engineering** to provide accurate and context-aware car recommendations.
